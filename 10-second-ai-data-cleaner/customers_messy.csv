@@ -1,0 +1,41 @@
+customer_id,name,email,country,signup_date,last_purchase,total_spend,phone,status
+1,John Smith,john.smith@email.com,United States,2023-01-15,2024-01-20,1250.50,+1-555-0101,Active
+2,Jane Doe,jane.doe@email.com,USA,2023-02-20,2024-02-15,890.00,+1-555-0102,Active
+3,Bob Johnson,bob.j@email.com,US,2023/03/10,2024-03-05,-,555-0103,Active
+4,Alice Brown,alice.brown@email.com,United Kingdom,2023-04-05,2024-04-10,2100.75,+44 20 7946 0104,Active
+5,Charlie Wilson,charlie.w@email.com,UK,2023-05-12,2024-05-10,450.00,+44 20 7946 0105,Inactive
+6,Diana Prince,diana.p@email.com,Germany,2023-06-18,2024-06-22,3200.00,+49 30 1234 4567,Active
+7,Edward Norton,ed.norton@email.com,Deutschland,2023-07-22,2024-07-25,-,+49 30 1234 4568,Active
+8,Fiona Gallagher,fiona.g@email.com,France,2023-08-30,2024-08-14,1800.25,+33 1 40 79 67 89,Active
+9,George Lucas,george.l@email.com,FR,2023-09-14,2024-09-01,950.00,+33 1 40 79 67 90,Active
+10,Hannah Montana,hannah.m@email.com,Canada,2023-10-03,2024-10-10,-,+1 416 555 0110,Active
+11,Ian Fleming,ian.f@email.com,CA,2023-11-20,2024-11-15,2750.00,+1 416 555 0111,Inactive
+12,Julia Roberts,julia.r@email.com,Australia,2023-12-08,2024-12-05,1500.00,+61 2 9876 5432,Active
+13,Kevin Costner,kevin.c@email.com,AU,2024-01-15,2024-01-20,-,+61 2 9876 5433,Active
+14,Laura Linney,laura.l@email.com,Japan,2024-02-10,2024-02-15,4200.00,+81 3 5555 5678,Active
+15,Michael Jordan,michael.j@email.com,JP,2024-03-05,2024-03-10,-,+81 3 5555 5679,Active
+16,Natalie Portman,natalie.p@email.com,Brazil,2024-04-12,2024-04-18,3100.50,+55 11 9876 4321,Active
+17,Oscar Isaac,oscar.i@email.com,Brasil,2024-05-20,2024-05-25,-,+55 11 9876 4322,Active
+18,Penelope Cruz,penelope.c@email.com,India,2024-06-10,2024-06-15,1900.00,+91 22 2345 6789,Active
+19,Quentin Tarantino,quentin.t@email.com,IN,2024-07-22,2024-07-28,-,+91 22 2345 6790,Inactive
+20,Rachel Weisz,rachel.w@email.com,United States of America,2023-01-15,2024-01-20,1250.50,+1-555-0101,Active
+1,Samuel Jackson,samuel.j@email.com,USA,2023-02-20,2024-02-15,890.00,+1-555-0102,Active
+2,Tom Hanks,tom.h@email.com,US,2023/03/10,2024-03-05,-,555-0103,Active
+3,Uma Thurman,uma.t@email.com,United Kingdom,2023-04-05,2024-04-10,2100.75,+44 20 7946 0104,Active
+4,Viggo Mortensen,viggo.m@email.com,UK,2023-05-12,2024-05-10,450.00,+44 20 7946 0105,Inactive
+5,Winona Ryder,winona.r@email.com,Germany,2023-06-18,2024-06-22,3200.00,+49 30 1234 4567,Active
+6,Xavier Bardem,xavier.b@email.com,Deutschland,2023-07-22,2024-07-25,-,+49 30 1234 4568,Active
+7,Yvonne Strahovski,yvonne.s@email.com,France,2023-08-30,2024-08-14,1800.25,+33 1 40 79 67 89,Active
+8,Zoe Saldana,zoe.s@email.com,FR,2023-09-14,2024-09-01,950.00,+33 1 40 79 67 90,Active
+9,Adam Driver,adam.d@email.com,Canada,2023-10-03,2024-10-10,-,+1 416 555 0110,Active
+10,Brie Larson,brie.l@email.com,CA,2023-11-20,2024-11-15,2750.00,+1 416 555 0111,Inactive
+11,Christian Bale,christian.b@email.com,Australia,2023-12-08,2024-12-05,1500.00,+61 2 9876 5432,Active
+12,Denzel Washington,denzel.w@email.com,AU,2024-01-15,2024-01-20,-,+61 2 9876 5433,Active
+13,Emma Stone,emma.s@email.com,Japan,2024-02-10,2024-02-15,4200.00,+81 3 5555 5678,Active
+14,Frances McDormand,frances.m@email.com,JP,2024-03-05,2024-03-10,-,+81 3 5555 5679,Active
+15,Gary Oldman,gary.o@email.com,Brazil,2024-04-12,2024-04-18,3100.50,+55 11 9876 4321,Active
+16,Helen Mirren,helen.m@email.com,Brasil,2024-05-20,2024-05-25,-,+55 11 9876 4322,Active
+17,Ian McKellen,ian.m@email.com,India,2024-06-10,2024-06-15,1900.00,+91 22 2345 6789,Active
+18,Judi Dench,judi.d@email.com,IN,2024-07-22,2024-07-28,-,+91 22 2345 6790,Inactive
+19,Kate Winslet,kate.w@email.com,United States of America,2023-01-15,2024-01-20,1250.50,+1-555-0101,Active
+20,Leonardo DiCaprio,leo.d@email.com,U.S.A.,2023-02-20,2024-02-15,890.00,+1-555-0102,Active
